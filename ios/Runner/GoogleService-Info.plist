@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>269298174013-30lq08h605mkvro9n9q39cpakl0t1qds.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.269298174013-30lq08h605mkvro9n9q39cpakl0t1qds</string>
+	<key>API_KEY</key>
+	<string>AIzaSyANf8IxTA0bNA7F1P54DuSUIxulkQ7NNCs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>269298174013</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.letstalkGroupChat</string>
+	<key>PROJECT_ID</key>
+	<string>let-stalk-group-chat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>let-stalk-group-chat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:269298174013:ios:5e246ce216c59e7b540254</string>
+</dict>
+</plist>
