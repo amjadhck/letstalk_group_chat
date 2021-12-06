@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269298174013",
+    "project_id": "let-stalk-group-chat",
+    "storage_bucket": "let-stalk-group-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269298174013:android:bb12246e3e38b1f8540254",
+        "android_client_info": {
+          "package_name": "com.example.letstalk_group_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269298174013-nhhq7a8n452v031nqb6b58cikvkh9asa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm6YPKrfqn4TiyjTnnBBxSbiVN9b8lgig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269298174013-nhhq7a8n452v031nqb6b58cikvkh9asa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
