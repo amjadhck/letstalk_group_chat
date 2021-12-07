@@ -42,13 +42,14 @@ class _ChatScreenState extends State<ChatScreen> {
       FirebaseMessaging.onMessageOpenedApp.listen((message) {
         print(message.notification!.title);
       });
+      _messaging.subscribeToTopic("chat");
     }
   }
 
   @override
   void initState() {
-    registerNotification();
     super.initState();
+    registerNotification();
   }
 
   @override
